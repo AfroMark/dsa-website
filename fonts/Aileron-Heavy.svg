@@ -744,7 +744,7 @@ d="M263 573l-138 122h140l84 -122h-86zM589 533l-213 -544q-45 -115 -96 -157t-139 -
 d="M415 248h-330v86h330v-86z" />
     <glyph glyph-name="emdash" unicode="&#x2014;" horiz-adv-x="1000" 
 d="M915 248h-830v86h830v-86z" />
-    <glyph glyph-name="quoteleft" unicode="&#x2018;" horiz-adv-x="303" 
+    <glyph glyph-name="quoteleft" unicode="&#x2020;" horiz-adv-x="303" 
 d="M57 461l105 274h123l-79 -284h-149v10z" />
     <glyph glyph-name="quoteright" unicode="&#x2019;" horiz-adv-x="303" 
 d="M246 725l-105 -274h-123l80 284h148v-10z" />

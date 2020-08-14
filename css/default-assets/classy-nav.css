@@ -126,7 +126,7 @@ img {
 }
 .icon-classy-nav-down-arrow {
   font-family: 'classyfonts';
-  speak: none;
+  /* speak: none; */
   font-style: normal;
   font-weight: normal;
   font-variant: normal;

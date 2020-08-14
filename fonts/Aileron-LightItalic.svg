@@ -779,7 +779,7 @@ d="M276 580l-60 110h60l42 -110h-42zM530 529l-297 -529q-70 -126 -117.5 -168t-112.
 d="M426 270h-360l8 43h360z" />
     <glyph glyph-name="emdash" unicode="&#x2014;" horiz-adv-x="1000" 
 d="M926 270h-860l8 43h860z" />
-    <glyph glyph-name="quoteleft" unicode="&#x2018;" horiz-adv-x="206" 
+    <glyph glyph-name="quoteleft" unicode="&#x2020;" horiz-adv-x="206" 
 d="M96 487l114 220h58l-107 -229h-67z" />
     <glyph glyph-name="quoteright" unicode="&#x2019;" horiz-adv-x="206" 
 d="M220 698l-114 -220h-58l107 229h67z" />
